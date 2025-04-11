@@ -24,11 +24,24 @@ class TSizes {
   static const double fontSizeMd = 16.0;
   static const double fontSizeLG = 18.0;
 
+  //App Bar Height
+  static const double appBarHeight = 56.0;
+
+  //Images Sizes
+  static const double ImageThumbSize = 80.0;
+
+  //Spacing
+  static const double defaultSpace = 24.0;
+  static const double spaceBtwItems = 16.0;
+  static const double spaceBtwSections = 32.0;
+  static const double spaceBtwInputFields = 20.0;
+
   //Button Sizes
 
-  static const double buttonHeight = 18.0;
+  static const double buttonHeight = 50.0;
   static const double buttonRadius = 12.0;
   static const double buttonWidth = 120.0;
+  static const double buttonElevation = 4.0;
 
   //Gradient colors
   static const Gradient linearGradient = LinearGradient(

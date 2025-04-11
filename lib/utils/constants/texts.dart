@@ -15,16 +15,25 @@ class TTexts {
   static const String homeAppBarTitle = "Good day for shopping";
   static const String homeSubAppBarTitle = "Taimoor Sikander";
 
+  // --Login
+  static const String login = "Login";
+  static const String signup = "Sign Up";
+  static const String orSignInWith = "or Sign in with";
+
+  static const String loginTitle = "Good day for shopping";
+  static const String loginsubTitle = "Taimoor Sikander";
+
   static const String appTagLine = 'Your tagline here';
   static const String welcomeMessage = 'Welcome to MyApp!';
   static const String loginMessage = 'Login to continue';
   static const String signUpMessage = 'Create an account';
+  static const String rememberMessage = 'Remember Me';
   static const String forgotPasswordMessage = 'Forgot your password?';
   static const String resetPasswordMessage = 'Reset your password';
   static const String emailHintText = 'Email address';
   static const String passwordHintText = 'Password';
   static const String confirmPasswordHintText = 'Confirm Password';
-  static const String nameHintText = 'Full Name';
+  static const String nameHintText = 'First Name';
   static const String phoneHintText = 'Phone Number';
   static const String addressHintText = 'Address';
 }
