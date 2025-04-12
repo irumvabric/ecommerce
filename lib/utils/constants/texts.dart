@@ -28,12 +28,23 @@ class TTexts {
   static const String loginMessage = 'Login to continue';
   static const String signUpMessage = 'Create an account';
   static const String rememberMessage = 'Remember Me';
+  static const String iAgreeTo = 'I agree to';
+  static const String PrivacyPolicy = 'Privacy Policy';
+  static const String TermsOfUse = 'Terms of use';
   static const String forgotPasswordMessage = 'Forgot your password?';
   static const String resetPasswordMessage = 'Reset your password';
   static const String emailHintText = 'Email address';
   static const String passwordHintText = 'Password';
   static const String confirmPasswordHintText = 'Confirm Password';
-  static const String nameHintText = 'First Name';
+  static const String firstNameHintText = 'First Name';
+  static const String lastNameHintText = 'Last Name';
+  static const String userNameHintText = 'Username';
   static const String phoneHintText = 'Phone Number';
+
+  static const String VerifyEmail = 'Verify your email address!';
+  static const String emailSupport = 'support@codingwitht.com';
+  static const String VerifyEmailMessage =
+      'Congratulations! Your Account Awaits: Verify Your Email to Start Shopping and Experience a World of Unrivaled Deals and Personalized Offers.';
+
   static const String addressHintText = 'Address';
 }

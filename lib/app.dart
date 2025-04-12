@@ -1,4 +1,6 @@
 import 'package:ecommerce/features/auth/views/onBoarding/onboarding_Screen.dart';
+import 'package:ecommerce/features/auth/views/signup/SignUpScreen.dart';
+import 'package:ecommerce/navigationMenu.dart';
 import 'package:ecommerce/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -18,7 +20,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       theme: TAppTheme.lightTheme,
       darkTheme: TAppTheme.darkTheme,
-      home: OnboardingScreen(),
+      home: NavigationMenu(),
     );
   }
 }

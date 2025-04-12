@@ -3,11 +3,6 @@ import 'package:ecommerce/utils/theme/theme_custom.dart/ElevatedTheme.dart'
 import 'package:ecommerce/utils/theme/theme_custom.dart/OutlineButtonTheme.dart';
 import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
 import 'package:ecommerce/utils/theme/theme_custom.dart/AppBarTheme.dart';
-import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
-import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
-import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
-import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
-import 'package:ecommerce/utils/theme/theme_custom.dart/TextTheme.dart';
 import 'package:ecommerce/utils/theme/theme_custom.dart/checkBoxTheme.dart';
 import 'package:ecommerce/utils/theme/theme_custom.dart/chipTheme.dart'
     show TChiptheme;

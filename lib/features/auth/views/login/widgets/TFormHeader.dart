@@ -1,7 +1,6 @@
 import 'package:ecommerce/features/auth/views/signup/SignUpScreen.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';
 import 'package:ecommerce/utils/constants/texts.dart';
-import 'package:ecommerce/utils/helpers/helpers_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

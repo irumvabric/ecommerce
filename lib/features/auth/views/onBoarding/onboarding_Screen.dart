@@ -3,7 +3,6 @@ import 'package:ecommerce/features/auth/views/onBoarding/widgets/onBordingNextBu
     show onBordingNextButton;
 import 'package:ecommerce/utils/constants/image_strings.dart';
 import 'package:ecommerce/utils/constants/texts.dart';
-import 'package:ecommerce/utils/device/devices_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 // import 'package:smooth_page_indicator/smooth_page_indicator.dart';

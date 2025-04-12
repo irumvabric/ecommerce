@@ -1,5 +1,4 @@
 import 'package:ecommerce/utils/constants/colors.dart';
-import 'package:ecommerce/utils/constants/texts.dart' show TTexts;
 import 'package:ecommerce/utils/helpers/helpers_functions.dart';
 import 'package:flutter/material.dart';
 
