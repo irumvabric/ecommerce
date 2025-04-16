@@ -1,4 +1,3 @@
-import 'package:ecommerce/features/auth/views/signup/SignUpScreen.dart';
 import 'package:ecommerce/features/auth/views/verifiedEmail/onBoarding/verifiedEmail.dart';
 import 'package:ecommerce/utils/constants/colors.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';

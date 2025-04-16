@@ -1,5 +1,3 @@
-import 'package:ecommerce/features/auth/views/onBoarding/onboarding_Screen.dart';
-import 'package:ecommerce/features/auth/views/signup/SignUpScreen.dart';
 import 'package:ecommerce/navigationMenu.dart';
 import 'package:ecommerce/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
